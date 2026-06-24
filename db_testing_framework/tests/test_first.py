@@ -1,5 +1,5 @@
 def test_basic_math():
-    assert 1 == 1
+    assert 1 == 10
 
 def test_basic_string_validation():
     name ="pramila started with ai"
